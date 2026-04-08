@@ -1,0 +1,5 @@
+2026-04-08 10:00:01 INFO login success user=john ip=10.0.0.1
+2026-04-08 10:00:05 ERROR login failed user=admin ip=192.168.1.1
+2026-04-08 10:00:06 ERROR login failed user=admin ip=192.168.1.1
+2026-04-08 10:00:07 ERROR login failed user=admin ip=192.168.1.1
+2026-04-08 10:00:10 INFO login success user=alice ip=10.0.0.2
