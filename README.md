@@ -54,4 +54,13 @@ Synthetic logs simulating authentication events and attack scenarios.
 
 ### 📸 Screenshots
 
-(Add your Splunk dashboards here)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Attacks by IP
+![Attacks](attacks_by_user.png)
+
+### SPL Query
+![Query](spl_query.png)
